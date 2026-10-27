@@ -1,0 +1,47 @@
+finding_id,theme,finding,source_table
+F01,Content too complex,The depth of material exceeds the prerequisites promised to participants,Table 2
+F02,Content too complex,42–52% of participants experienced significant difficulty in Weeks 2 & 3 because the concepts were too complex,Table 2
+F03,Content too complex,"Articles were too long with too much detail, burdening participants",Table 2
+F04,Content too complex,Academic English from the humanities disciplines made the material difficult for STEM students,Table 2
+F05,Content too complex,Article texts were considered too long,Table 2
+F06,Content too complex,Additional content that is more specific to each vaccine type was requested,Table 2
+F07,Content too complex,"Participants requested more clinical cases for practice, especially remote-area scenarios",Table 2
+F08,Lack of interaction,The level of interaction in the system was considered still inadequate,Table 2
+F09,Lack of interaction,"Discussion forums were used monologically, i.e., participants posted without responding to one another",Table 2
+F10,Lack of interaction,The unique opportunity for cross-country interaction was not optimally utilized,Table 2
+F11,Lack of interaction,Students were not accustomed to questioning others' opinions in scientific discussions,Table 2
+F12,Lack of interaction,Little opportunity to discuss ethical topics within the normal campus curriculum,Table 2
+F13,Lack of interaction,More direct interaction with technical experts was requested,Table 2
+F14,Lack of interaction,"Interaction among participants was highly limited, occurring only through scheduled forums and webinars",Table 2
+F15,Lack of interaction,Feedback between course developers and users was limited,Table 2
+F16,Lack of interaction,Feedback was slow and did not receive immediate responses,Table 2
+F17,Lack of interaction,Lack of social interaction & feelings of disconnection/isolation,Table 2
+F18,Lack of interaction,Online discussions were slow and less interactive compared to face-to-face settings,Table 2
+F19,Lack of interaction,Sociological barriers to communication among participants were significantly higher in the MOOC group than in the blended-learning group,Table 2
+F20,Lack of interaction,Satisfaction with professors and with the learning community was significantly lower in the MOOC group; mentoring was less direct and personalized,Table 2
+F21,Technical barriers,Technical implementation is highly complex and requires a large pool of experts,Table 2
+F22,Technical barriers,Experienced internet connection disruptions during the learning process,Table 2
+F23,Technical barriers,Unstable internet connection at remote internship locations,Table 2
+F24,Technical barriers,"Poor connectivity: the most common technical complaint, worsened by armed-conflict conditions",Table 2
+F25,Technical barriers,Hardware problems and electricity shortages,Table 2
+F26,Technical barriers,Technical barriers were the most frequently expressed barrier (53% of barrier-related comments) and were perceived more strongly by MOOC participants,Table 2
+F27,Inadequate media format,Infographics were considered insufficient to fully explain complex concepts,Table 2
+F28,Inadequate media format,Several modules lacked video content and practical laboratory examples,Table 2
+F29,Inadequate media format,Video recording and editing quality needed improvement,Table 2
+F30,Inadequate media format,Low-quality content resulted from unmotivated participants,Table 2
+F31,Inadequate media format,"Participants completed the course in only about 72 minutes out of a total of 1.5 hours of video, indicating that videos were being skipped",Table 2
+F32,Inadequate media format,Videos were considered too long and unengaging,Table 2
+F33,Inadequate media format,Average access duration was far below the developers' minimum estimate,Table 2
+F34,Inadequate media format,Batch 2 participants spent less access time despite a greater number of modules,Table 2
+F35,Inadequate media format,Low course quality: content could not be used for learning,Table 2
+F36,Evaluation weaknesses,"Only 5% of participants (101 of 2,039) were willing to retake the survey to improve their understanding",Table 2
+F37,Evaluation weaknesses,"Some quizzes were considered too ""tricky""",Table 2
+F38,Evaluation weaknesses,"Quizzes contained only 2–4 questions per module, giving participants little diagnostic feedback on their gaps in understanding",Table 2
+F39,Evaluation weaknesses,Pre/post-test questions were considered poorly aligned with the material taught,Table 2
+F40,Evaluation weaknesses,Assessment was the main source of dissatisfaction (17.8% of dissatisfaction comments); participants asked for weekly tests to check whether they had actually learned,Table 2
+F41,Difficult platform navigation,The forum interface was not easy to navigate and hindered participant participation,Table 3
+F42,Difficult platform navigation,Difficulty navigating the platform and monitoring learning progress for unfamiliar participants,Table 3
+F43,Difficult platform navigation,"With many comments, it was hard to follow forum threads and to see whether someone had replied; the platform's graphic and organizational format needed improvement",Table 3
+F44,Language barriers,Requested that the course be available in their national language,Table 3
+F45,Self-directed learning difficulties,"Self-evaluation and time management were the weakest self-regulated learning dimensions among blended-MOOC students, with wide individual variation",Table 3
+F46,Self-directed learning difficulties,Too much self-directed learning without adequate scaffolding,Table 3

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Replication package: Weaknesses of Massive Open Online Courses from the Participants' Perspective: A Systematic Literature Review"
+type: dataset
+authors:
+  - family-names: Hidayat
+    given-names: Kusnan
+    affiliation: Universitas Negeri Jakarta
+    email: kusnan_1110824029@mhs.unj.ac.id
+  - family-names: Septiani
+    given-names: Mita
+    affiliation: Universitas Negeri Jakarta
+  - family-names: Chaeruman
+    given-names: Uwes Anis
+    affiliation: Universitas Negeri Jakarta
+  - family-names: Rahmadi
+    given-names: Imam Fitri
+    affiliation: Universitas Negeri Jakarta
+version: 1.0.0
+date-released: 2026-10-27
+license: CC-BY-4.0
+keywords:
+  - MOOC
+  - systematic literature review
+  - PRISMA 2020
+  - weaknesses
+  - Gagné's Nine Events of Instruction

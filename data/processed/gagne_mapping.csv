@@ -1,0 +1,9 @@
+theme,classification,gagne_events,gagne_event_names,rationale_in_manuscript
+Content too complex,critical,"3; 1","Stimulating recall of prior learning; Gaining attention","Prior knowledge not assessed before presenting content, causing excessive cognitive load"
+Lack of interaction,critical,6,Eliciting performance,"Slow, monologic discussions deny participants opportunities to demonstrate understanding"
+Technical barriers,critical,5,Providing learning guidance,"Unreliable access makes learning guidance non-functional and breaks instructional continuity"
+Inadequate media format,critical,4,Presenting the stimulus material,"Long, low-quality or mismatched media fail to sustain attention and deep processing"
+Evaluation weaknesses,critical,"7; 8","Providing feedback; Assessing performance","Quizzes measure surface factual knowledge and yield too little diagnostic feedback"
+Difficult platform navigation,non-critical,5,Providing learning guidance,"Navigation imposes extraneous cognitive load that makes guidance inaccessible"
+Language barriers,non-critical,"4; 6","Presenting the stimulus material; Eliciting performance","Linguistic translation consumes working memory needed for content and performance"
+Self-directed learning difficulties,non-critical,9,Enhancing retention and transfer,"Without metacognitive scaffolding participants adopt surface-learning strategies"
